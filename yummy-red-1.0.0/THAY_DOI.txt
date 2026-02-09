@@ -1,0 +1,188 @@
+====================================================================
+LAN QUỦ - THƯƠNG HIỆU HÓA LAN CAO CẤP
+Chuyển đổi từ trang web nhà hàng sang bán hoa lan
+====================================================================
+
+TỔNG QUAN CÁC THAY ĐỔI:
+Trang web đã được chuyển đổi hoàn toàn từ một template nhà hàng "Yummy" sang một 
+trang web bán hoa lan quý hiếm với tên thương hiệu "Lan Quý". Toàn bộ nội dung 
+và ngôn ngữ đã được dịch sang tiếng Việt.
+
+====================================================================
+PHẦN 1: THÔNG TIN CHUNG
+====================================================================
+
+✓ Tên trang web: Lan Quý - Thương Hiệu Hoa Lan Cao Cấp
+✓ Mô tả: Bán hoa lan quý hiếm, hoa lan đột biến với chất lượng cao và giá cạnh tranh
+✓ Từ khóa: hoa lan, bán hoa lan, hoa lan đột biến, hoa lan quý, hoa lan cao cấp
+✓ Ngôn ngữ: Tiếng Việt (vi)
+
+====================================================================
+PHẦN 2: MENU ĐIỀU HƯỚNG
+====================================================================
+
+Trang Chủ -> Home
+Về Chúng Tôi -> About
+Danh Mục -> Menu (các loại hoa lan)
+Khuyến Mãi -> Events
+Chuyên Gia -> Chefs (các chuyên gia hoa lan)
+Thư Viện -> Gallery
+Dịch Vụ -> Services (dropdown)
+  - Tư Vấn Trồng Lan
+  - Hỗ Trợ Chăm Sóc
+    • Tưới Nước Đúng Cách
+    • Cách Bón Phân
+    • Phòng Chống Sâu Bệnh
+    • Thay Chậu Hoa
+    • Xử Lý Cây Bệnh
+  - Giao Hàng Toàn Quốc
+  - Bảo Hành Cây
+  - Thiết Kế Vườn Lan
+Liên Hệ -> Contact
+Mua Ngay -> Nút hành động
+
+====================================================================
+PHẦN 3: CÁC PHẦN NỘI DUNG CHÍNH
+====================================================================
+
+1. HERO SECTION (Mục tiêu)
+   - Tiêu đề: "Hoa Lan Quý Hiếm - Chất Lượng Vàng"
+   - Miêu tả: "Chúng tôi chuyên cung cấp hoa lan đột biến quý hiếm với chất lượng cao nhất"
+   - Nút: "Mua Hàng Ngay" và "Xem Video"
+
+2. ABOUT SECTION (Về Chúng Tôi)
+   - Tiêu đề: "Về Chúng Tôi"
+   - Điểm bán hàng:
+     * Hoa lan đột biến quý hiếm, chất lượng vàng, được chứng nhận quốc tế
+     * Đội ngũ chuyên gia hoa lan có kinh nghiệm lâu năm sẵn sàng tư vấn miễn phí
+     * Giao hàng toàn quốc nhanh chóng, an toàn, có bảo hành cây sống 30 ngày
+   - Thông tin liên hệ: +84 123 456 789
+
+3. WHY US SECTION (Tại Sao Chọn Lan Quý)
+   - Tiêu đề: "Tại Sao Chọn Lan Quý"
+   - Ba lý do chính:
+     * Giống Lan Đa Dạng (500+ giống lan đột biến quý hiếm)
+     * Chất Lượng Cao Cấp (kiểm định kỹ lưỡng, khỏe mạnh, đẹp tự nhiên)
+     * Dịch Vụ Giao Hàng (nhanh chóng, an toàn, bảo hành cây sống)
+
+4. STATS SECTION (Thống Kê)
+   - 5000 Khách Hàng Hài Lòng
+   - 500 Giống Lan Quý
+   - 15 Năm Kinh Nghiệm
+   - 30 Chuyên Gia Hoa Lan
+
+5. MENU SECTION (Danh Mục Sản Phẩm)
+   - Tiêu đề: "Danh Mục Sản Phẩm"
+   - 4 loại hoa lan chính:
+     * Lan Phalaenopsis
+       - Phalaenopsis Đỏ Tươi (250.000đ)
+       - Phalaenopsis Trắng Tinh (220.000đ)
+       - Phalaenopsis Vàng Lòng Đỏ (450.000đ)
+       - Phalaenopsis Hồng Nhạt (280.000đ)
+       - Phalaenopsis Đốm Đỏ (320.000đ)
+       - Phalaenopsis Tím Đậm (380.000đ)
+     * Lan Cattleya
+     * Lan Dendrobium
+     * Lan Oncidium
+
+6. TESTIMONIALS SECTION (Nhận Xét Khách Hàng)
+   - Tiêu đề: "NHẬN XÉT KHÁCH HÀNG"
+   - 4 nhận xét từ khách hàng:
+     * Nguyễn Thị Hoa - Khách Hàng VIP
+     * Trần Văn Hùng - Doanh Nhân
+     * Phạm Thị Hương - Chủ Cửa Hàng
+     * Đoàn Vinh Tuấn - Nhân Viên Văn Phòng
+
+7. EVENTS SECTION (Khuyến Mãi/Dịch Vụ)
+   - Dịch Vụ Tiệc Cưới (5.000.000đ)
+   - Trang Trí Nhà Cửa (2.000.000đ)
+   - Quà Tặng Đặc Biệt (500.000đ)
+   - Dịch Vụ Cho Thuê Lan (1.000.000đ)
+
+8. CHEFS SECTION (Chuyên Gia Hoa Lan)
+   - Nguyễn Văn An - Chuyên Gia Hoa Lan Hàng Đầu (20+ năm kinh nghiệm)
+   - Trần Thị Liên - Chuyên Gia Lan Phalaenopsis
+   - Lê Minh Tuấn - Quản Lý Vườn Lan
+
+9. BOOK A TABLE SECTION (Đặt Hàng)
+   - Tiêu đề: "Đặt Hàng"
+   - Form với các trường:
+     * Tên của bạn
+     * Email của bạn
+     * Số điện thoại
+     * Ngày nhận hàng
+     * Chọn loại hoa lan (Phalaenopsis, Cattleya, Dendrobium, Oncidium)
+     * Số lượng
+     * Ghi chú thêm
+
+10. GALLERY SECTION (Thư Viện Ảnh)
+    - Tiêu đề: "Thư Viện Ảnh"
+    - Mô tả: "Xem Những Hình Ảnh Hoa Lan Đẹp"
+
+11. CONTACT SECTION (Liên Hệ)
+    - Tiêu đề: "Liên Hệ"
+    - Địa chỉ: 123 Ngô Quyền, Phường 9, Q.10, TPHCM
+    - Điện thoại: +84 123 456 789
+    - Email: contact@lanquy.vn
+    - Giờ mở cửa: Thứ Hai - Chủ Nhật 08:00 - 20:00
+
+12. FOOTER (Chân Trang)
+    - Thông tin liên hệ và mạng xã hội
+    - Bản quyền: © 2024 Lan Quý - Bảo Lưu Mọi Quyền
+
+====================================================================
+PHẦN 4: CÁC THAY ĐỔI TIẾNG VIỆT CHÍNH
+====================================================================
+
+Tất cả nội dung chính đã được dịch sang tiếng Việt bao gồm:
+- Tất cả các tiêu đề phần
+- Tất cả các mô tả sản phẩm
+- Tất cả các nhãn biểu mẫu
+- Tất cả các tin nhắn lỗi/thành công
+- Tất cả các nút hành động
+- Tất cả thông tin liên hệ
+
+====================================================================
+PHẦN 5: TỪ KHÓA THAY THẾ
+====================================================================
+
+Restaurant → Orchid Shop (Cửa hàng hoa lan)
+Food → Orchid (Hoa lan)
+Menu Items → Orchid Varieties (Các loại hoa lan)
+Chefs → Orchid Specialists (Chuyên gia hoa lan)
+Booking → Ordering (Đặt hàng)
+Gallery → Photo Gallery (Thư viện ảnh)
+
+====================================================================
+LƯU Ý QUAN TRỌNG
+====================================================================
+
+1. Hình ảnh: Bạn cần thay thế các hình ảnh trong thư mục:
+   - assets/img/hero-img.png (hình nền hero)
+   - assets/img/about.jpg, about-2.jpg (hình về chúng tôi)
+   - assets/img/menu/ (hình sản phẩm)
+   - assets/img/gallery/ (thư viện ảnh)
+   - assets/img/chefs/ (ảnh chuyên gia)
+   - assets/img/testimonials/ (ảnh khách hàng)
+   - assets/img/events-*.jpg (hình sự kiện)
+
+2. CSS: Bạn có thể muốn điều chỉnh màu sắc trong assets/css/main.css 
+   để phù hợp với chủ đề hoa lan (xanh lá, tím, hồng, v.v.)
+
+3. PHP Forms: Cần cập nhật files PHP trong thư mục forms/ để xử lý 
+   đơn hàng thay vì đặt bàn
+
+4. SEO: Cân nhắc cập nhật thêm meta tags và structured data cho SEO tốt hơn
+
+====================================================================
+HOÀN THÀNH
+====================================================================
+
+Trang web đã được chuyển đổi thành công từ template nhà hàng sang 
+trang web bán hoa lan Lan Quý với toàn bộ nội dung tiếng Việt.
+
+Ngày chuyển đổi: 2026-02-09
+Tệp chính: index.html
+Tổng kích thước: ~1192 dòng mã
+
+====================================================================

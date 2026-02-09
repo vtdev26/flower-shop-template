@@ -1,0 +1,452 @@
+====================================================================
+DANH SÁCH ĐẦY ĐỦ CÁC THAY ĐỔI TIẾNG VIỆT
+====================================================================
+
+PHẦN I: THÔNG TIN CƠ BẢN
+====================================================================
+
+Tiêu đề trang:
+  English: "Index - Yummy Bootstrap Template"
+  Tiếng Việt: "Lan Quý - Thương Hiệu Hoa Lan Cao Cấp" ✓
+
+Meta Description:
+  English: (trống)
+  Tiếng Việt: "Bán hoa lan quý hiếm, hoa lan đột biến với chất lượng cao và giá cạnh tranh" ✓
+
+Meta Keywords:
+  English: (trống)
+  Tiếng Việt: "hoa lan, bán hoa lan, hoa lan đột biến, hoa lan quý, hoa lan cao cấp" ✓
+
+HTML Language:
+  English: lang="en"
+  Tiếng Việt: lang="vi" ✓
+
+Logo/Sitename:
+  English: "Yummy"
+  Tiếng Việt: "Lan Quý" ✓
+
+====================================================================
+PHẦN II: MENU ĐIỀU HƯỚNG
+====================================================================
+
+Home → Trang Chủ ✓
+About → Về Chúng Tôi ✓
+Menu → Danh Mục ✓
+Events → Khuyến Mãi ✓
+Chefs → Chuyên Gia ✓
+Gallery → Thư Viện ✓
+Dropdown → Dịch Vụ ✓
+Contact → Liên Hệ ✓
+Book a Table → Mua Ngay ✓
+
+DROPDOWN MENU (Dịch Vụ):
+  Dropdown 1 → Tư Vấn Trồng Lan ✓
+  Deep Dropdown → Hỗ Trợ Chăm Sóc ✓
+    Deep Dropdown 1 → Tưới Nước Đúng Cách ✓
+    Deep Dropdown 2 → Cách Bón Phân ✓
+    Deep Dropdown 3 → Phòng Chống Sâu Bệnh ✓
+    Deep Dropdown 4 → Thay Chậu Hoa ✓
+    Deep Dropdown 5 → Xử Lý Cây Bệnh ✓
+  Dropdown 2 → Giao Hàng Toàn Quốc ✓
+  Dropdown 3 → Bảo Hành Cây ✓
+  Dropdown 4 → Thiết Kế Vườn Lan ✓
+
+====================================================================
+PHẦN III: HERO SECTION
+====================================================================
+
+Main Heading:
+  English: "Enjoy Your Healthy Delicious Food"
+  Tiếng Việt: "Hoa Lan Quý Hiếm Chất Lượng Vàng" ✓
+
+Sub Description:
+  English: "We are team of talented designers making websites with Bootstrap"
+  Tiếng Việt: "Chúng tôi chuyên cung cấp hoa lan đột biến quý hiếm với chất lượng cao nhất" ✓
+
+Button 1:
+  English: "Book a Table"
+  Tiếng Việt: "Mua Hàng Ngay" ✓
+
+Button 2:
+  English: "Watch Video"
+  Tiếng Việt: "Xem Video" ✓
+
+====================================================================
+PHẦN IV: ABOUT SECTION
+====================================================================
+
+Section Title:
+  English: "About Us"
+  Tiếng Việt: "Về Chúng Tôi" ✓
+
+Subtitle:
+  English: "Learn More" / "About Us"
+  Tiếng Việt: "Tìm Hiểu Thêm" / "Về Lan Quý" ✓
+
+Phone Label:
+  English: "Book a Table"
+  Tiếng Việt: "Gọi Để Tư Vấn" ✓
+
+Phone Number:
+  English: "+1 5589 55488 55"
+  Tiếng Việt: "+84 123 456 789" ✓
+
+About Text:
+  English: Lorem ipsum...
+  Tiếng Việt: "Với hơn 15 năm kinh nghiệm trong lĩnh vực trồng và kinh doanh hoa lan, 
+              Lan Quý tự hào là nhà cung cấp hàng đầu các giống lan đột biến quý hiếm 
+              tại Việt Nam." ✓
+
+Benefits (3 items):
+  English: "Ullamco laboris nisi ut aliquip..." (Lorem ipsum)
+  Tiếng Việt: 
+    1. "Hoa lan đột biến quý hiếm, chất lượng vàng, được chứng nhận quốc tế." ✓
+    2. "Đội ngũ chuyên gia hoa lan có kinh nghiệm lâu năm sẵn sàng tư vấn miễn phí." ✓
+    3. "Giao hàng toàn quốc nhanh chóng, an toàn, có bảo hành cây sống 30 ngày." ✓
+
+Final Text:
+  English: "Ullamco laboris nisi ut aliquip ex ea commodo consequat..."
+  Tiếng Việt: "Chúng tôi cam kết cung cấp những cây hoa lan khỏe mạnh, đẹp tự nhiên 
+              với giá cạnh tranh nhất trên thị trường. Mỗi cây đều được chăm sóc kỹ 
+              lưỡng trước khi giao tới tay khách hàng." ✓
+
+====================================================================
+PHẦN V: WHY US SECTION
+====================================================================
+
+Section Title:
+  English: "Why Choose Yummy"
+  Tiếng Việt: "Tại Sao Chọn Lan Quý" ✓
+
+Box Text:
+  English: Lorem ipsum...
+  Tiếng Việt: "Lan Quý không chỉ là nơi bán hoa lan, mà còn là một cộng đồng yêu thích lan. 
+              Chúng tôi cung cấp các giống lan đột biến hiếm, chất lượng cao, và luôn 
+              hỗ trợ khách hàng với những kiến thức chuyên sâu về cách chăm sóc hoa lan." ✓
+
+Learn More Button:
+  English: "Learn More"
+  Tiếng Việt: "Tìm Hiểu Thêm" ✓
+
+Icon Box 1:
+  English: "Corporis voluptates officia eiusmod"
+  Tiếng Việt: "Giống Lan Đa Dạng" ✓
+  
+  English: "Consequuntur sunt aut quasi enim aliquam..."
+  Tiếng Việt: "Hơn 500 giống lan đột biến quý hiếm từ các nước hàng đầu thế giới" ✓
+
+Icon Box 2:
+  English: "Ullamco laboris ladore lore pan"
+  Tiếng Việt: "Chất Lượng Cao Cấp" ✓
+  
+  English: "Excepteur sint occaecat cupidatat non proident..."
+  Tiếng Việt: "Tất cả hoa lan đều được kiểm định kỹ lưỡng, khỏe mạnh và đẹp tự nhiên" ✓
+
+Icon Box 3:
+  English: "Labore consequatur incidid dolore"
+  Tiếng Việt: "Dịch Vụ Giao Hàng" ✓
+  
+  English: "Aut suscipit aut cum nemo deleniti..."
+  Tiếng Việt: "Giao hàng toàn quốc nhanh chóng, an toàn với bảo hành cây sống" ✓
+
+====================================================================
+PHẦN VI: STATS SECTION
+====================================================================
+
+Stats Item 1:
+  English: "Clients" (232)
+  Tiếng Việt: "Khách Hàng Hài Lòng" (5000) ✓
+
+Stats Item 2:
+  English: "Projects" (521)
+  Tiếng Việt: "Giống Lan Quý" (500) ✓
+
+Stats Item 3:
+  English: "Hours Of Support" (1453)
+  Tiếng Việt: "Năm Kinh Nghiệm" (15) ✓
+
+Stats Item 4:
+  English: "Workers" (32)
+  Tiếng Việt: "Chuyên Gia Hoa Lan" (30) ✓
+
+====================================================================
+PHẦN VII: MENU SECTION (DANH MỤC)
+====================================================================
+
+Section Title:
+  English: "Our Menu"
+  Tiếng Việt: "Danh Mục Sản Phẩm" ✓
+
+Subtitle:
+  English: "Check Our" / "Yummy Menu"
+  Tiếng Việt: "Khám Phá" / "Các Loại Lan Quý" ✓
+
+Menu Tabs:
+  English: "Starters", "Breakfast", "Lunch", "Dinner"
+  Tiếng Việt: "Lan Phalaenopsis", "Lan Cattleya", "Lan Dendrobium", "Lan Oncidium" ✓
+
+Tab 1 Header (Phalaenopsis):
+  English: "Menu" / "Starters"
+  Tiếng Việt: "Danh Mục" / "Lan Phalaenopsis" ✓
+
+Menu Items (Phalaenopsis):
+  1. English: "Magnam Tiste" → Tiếng Việt: "Phalaenopsis Đỏ Tươi" ✓
+     Ingredients: "Đỏ tươi, hoa lớn, nở lâu dài" ✓
+     Price: "$5.95" → "250.000đ" ✓
+
+  2. English: "Aut Luia" → Tiếng Việt: "Phalaenopsis Trắng Tinh" ✓
+     Ingredients: "Trắng tinh, hoa xinh, dễ trồng" ✓
+     Price: "$14.95" → "220.000đ" ✓
+
+  3. English: "Est Eligendi" → Tiếng Việt: "Phalaenopsis Vàng Lòng Đỏ" ✓
+     Ingredients: "Vàng, lòng đỏ, quý hiếm" ✓
+     Price: "$8.95" → "450.000đ" ✓
+
+  4. English: "Eos Luibusdam" → Tiếng Việt: "Phalaenopsis Hồng Nhạt" ✓
+     Ingredients: "Hồng nhạt, nở rộ, thơm nhẹ" ✓
+     Price: "$12.95" → "280.000đ" ✓
+
+  5. English: "Eos Luibusdam" → Tiếng Việt: "Phalaenopsis Đốm Đỏ" ✓
+     Ingredients: "Trắng đốm đỏ, hoa nét, ấn tượng" ✓
+     Price: "$12.95" → "320.000đ" ✓
+
+  6. English: "Laboriosam Direva" → Tiếng Việt: "Phalaenopsis Tím Đậm" ✓
+     Ingredients: "Tím đậm, quý hiếm, nở đẹp" ✓
+     Price: "$9.95" → "380.000đ" ✓
+
+Tab 2 Header (Cattleya):
+  English: "Menu" / "Breakfast"
+  Tiếng Việt: "Danh Mục" / "Lan Cattleya" ✓
+
+Tab 3 Header (Dendrobium):
+  English: "Menu" / "Lunch"
+  Tiếng Việt: "Danh Mục" / "Lan Dendrobium" ✓
+
+Tab 4 Header (Oncidium):
+  English: "Menu" / "Dinner"
+  Tiếng Việt: "Danh Mục" / "Lan Oncidium" ✓
+
+====================================================================
+PHẦN VIII: TESTIMONIALS SECTION
+====================================================================
+
+Section Title:
+  English: "TESTIMONIALS"
+  Tiếng Việt: "NHẬN XÉT KHÁCH HÀNG" ✓
+
+Subtitle:
+  English: "What Are They" / "Saying About Us"
+  Tiếng Việt: "Khách Hàng" / "Đánh Giá Chúng Tôi Như Thế Nào" ✓
+
+Testimonial 1:
+  Name: "Saul Goodman" → "Nguyễn Thị Hoa" ✓
+  Title: "Ceo & Founder" → "Khách Hàng VIP" ✓
+  Quote: "Hoa lan từ Lan Quý thực sự rất tuyệt vời. Chất lượng tốt, giá hợp lý, 
+          giao hàng nhanh. Tôi rất hài lòng với dịch vụ và sẽ tiếp tục mua hàng." ✓
+
+Testimonial 2:
+  Name: "Sara Wilsson" → "Trần Văn Hùng" ✓
+  Title: "Designer" → "Doanh Nhân" ✓
+  Quote: "Dịch vụ giao hàng rất nhanh chóng, hoa lan đến tay tôi còn tươi tốt. 
+          Đội ngũ tư vấn rất nhiệt tình và chuyên nghiệp. Tôi sẽ giới thiệu 
+          Lan Quý cho bạn bè." ✓
+
+Testimonial 3:
+  Name: "Jena Karlis" → "Phạm Thị Hương" ✓
+  Title: "Store Owner" → "Chủ Cửa Hàng" ✓
+  Quote: "Các loại hoa lan tại Lan Quý rất đa dạng và đẹp. Giá cả cạnh tranh, 
+          chất lượng tuyệt vời. Tôi đã mua từ Lan Quý hơn 10 lần và luôn hài lòng." ✓
+
+Testimonial 4:
+  Name: "John Larson" → "Đoàn Vinh Tuấn" ✓
+  Title: "Entrepreneur" → "Nhân Viên Văn Phòng" ✓
+  Quote: "Tôi rất hài lòng với sự phục vụ của Lan Quý. Các chuyên gia tư vấn 
+          rất am hiểu về cách chăm sóc hoa lan. Giờ tôi có thể trồng lan đẹp 
+          và khỏe mạnh tại nhà." ✓
+
+====================================================================
+PHẦN IX: EVENTS SECTION (KHUYẾN MÃI/DỊCH VỤ)
+====================================================================
+
+Event 1:
+  English: "Custom Parties" ($99)
+  Tiếng Việt: "Dịch Vụ Tiệc Cưới" (5.000.000đ) ✓
+  Description: "Trang trí bàn tiệc cưới với các loại hoa lan quý hiếm, 
+               tạo không gian sang trọng và lãng mạn cho ngày trọng đại của bạn." ✓
+
+Event 2:
+  English: "Private Parties" ($289)
+  Tiếng Việt: "Trang Trí Nhà Cửa" (2.000.000đ) ✓
+  Description: "Thiết kế không gian xanh với các loại hoa lan đẹp cho 
+               phòng khách, phòng ngủ, và văn phòng làm việc." ✓
+
+Event 3:
+  English: "Birthday Parties" ($499)
+  Tiếng Việt: "Quà Tặng Đặc Biệt" (500.000đ) ✓
+  Description: "Gửi tặng hoa lan quý hiếm cho những người thân yêu, 
+               đi kèm lời chúc tốt đẹp từ Lan Quý." ✓
+
+Event 4:
+  English: "Wedding Parties" ($899)
+  Tiếng Việt: "Dịch Vụ Cho Thuê Lan" (1.000.000đ) ✓
+  Description: "Cho thuê các loại hoa lan quý hiếm cho sự kiện, hội chợ, 
+               và triển lãm với chi phí hợp lý." ✓
+
+====================================================================
+PHẦN X: CHEFS SECTION (CHUYÊN GIA)
+====================================================================
+
+Section Title:
+  English: "chefs"
+  Tiếng Việt: "chuyên gia" ✓
+
+Subtitle:
+  English: "Our" / "Professional Chefs"
+  Tiếng Việt: "Đội" / "Chuyên Gia Hoa Lan" ✓
+
+Chef 1:
+  Name: "Walter White" → "Nguyễn Văn An" ✓
+  Title: "Master Chef" → "Chuyên Gia Hoa Lan Hàng Đầu" ✓
+  Bio: "Có hơn 20 năm kinh nghiệm trong lĩnh vực trồng và phát triển 
+       các giống lan mới. Tốt nghiệp từ trường Nông Lâm." ✓
+
+Chef 2:
+  Name: "Sarah Johnson" → "Trần Thị Liên" ✓
+  Title: "Patissier" → "Chuyên Gia Lan Phalaenopsis" ✓
+  Bio: "Chuyên điều trị các loại bệnh hoa lan và chăm sóc cây. 
+       Đã được vinh danh là Người Phụ Nữ Khởi Nghiệp Xuất Sắc." ✓
+
+Chef 3:
+  Name: "William Anderson" → "Lê Minh Tuấn" ✓
+  Title: "Cook" → "Quản Lý Vườn Lan" ✓
+  Bio: "Quản lý các vườn lan và kiểm soát chất lượng. 
+       Có kinh nghiệm xuất khẩu hoa lan sang các nước châu Á." ✓
+
+====================================================================
+PHẦN XI: BOOK A TABLE SECTION (ĐẶT HÀNG)
+====================================================================
+
+Section Title:
+  English: "Book A Table"
+  Tiếng Việt: "Đặt Hàng" ✓
+
+Subtitle:
+  English: "Book Your" / "Stay With Us"
+  Tiếng Việt: "Đặt Hoa Lan" / "Thôi Không Chần Chừ" ✓
+
+Form Fields:
+  "Your Name" → "Tên của bạn" ✓
+  "Your Email" → "Email của bạn" ✓
+  "Your Phone" → "Số điện thoại" ✓
+  "Date" → "Ngày nhận hàng" ✓
+  "Time" → được thay thế bằng "Chọn loại hoa lan" với dropdown:
+    - Phalaenopsis
+    - Cattleya
+    - Dendrobium
+    - Oncidium ✓
+  "# of people" → "Số lượng" ✓
+  "Message" → "Ghi chú thêm (tùy chọn)" ✓
+
+Button:
+  English: "Book a Table"
+  Tiếng Việt: "Đặt Hàng Ngay" ✓
+
+Success Message:
+  English: "Your booking request was sent. We will call back or send an Email 
+           to confirm your reservation. Thank you!"
+  Tiếng Việt: "Yêu cầu đặt hàng của bạn đã được gửi. Chúng tôi sẽ liên hệ lại 
+             hoặc gửi email để xác nhận đơn hàng. Cảm ơn bạn!" ✓
+
+====================================================================
+PHẦN XII: GALLERY SECTION
+====================================================================
+
+Section Title:
+  English: "Gallery"
+  Tiếng Việt: "Thư Viện Ảnh" ✓
+
+Subtitle:
+  English: "Check" / "Our Gallery"
+  Tiếng Việt: "Xem" / "Những Hình Ảnh Hoa Lan Đẹp" ✓
+
+====================================================================
+PHẦN XIII: CONTACT SECTION
+====================================================================
+
+Section Title:
+  English: "Contact"
+  Tiếng Việt: "Liên Hệ" ✓
+
+Subtitle:
+  English: "Need Help?" / "Contact Us"
+  Tiếng Việt: "Cần Giúp Đỡ?" / "Liên Hệ Chúng Tôi" ✓
+
+Contact Info - Address:
+  Label: "Address" → "Địa Chỉ" ✓
+  Text: "A108 Adam Street, New York, NY 535022" → 
+        "123 Ngô Quyền, Phường 9, Q.10, TPHCM" ✓
+
+Contact Info - Phone:
+  Label: "Call Us" → "Gọi Cho Chúng Tôi" ✓
+  Text: "+1 5589 55488 55" → "+84 123 456 789" ✓
+
+Contact Info - Email:
+  Label: "Email Us" → "Email Chúng Tôi" ✓
+  Text: "info@example.com" → "contact@lanquy.vn" ✓
+
+Contact Info - Hours:
+  Label: "Opening Hours" → "Giờ Mở Cửa" ✓
+  Text: "Mon-Sat: 11AM - 23PM; Sunday: Closed" → 
+        "Thứ Hai - Chủ Nhật: 08:00 - 20:00; Lễ Tết: Mở Cửa" ✓
+
+Contact Form:
+  "Your Name" → "Tên của bạn" ✓
+  "Your Email" → "Email của bạn" ✓
+  "Subject" → "Chủ đề" ✓
+  "Message" → "Tin nhắn" ✓
+  "Send Message" → "Gửi Tin Nhắn" ✓
+
+Success Message:
+  English: "Your message has been sent. Thank you!"
+  Tiếng Việt: "Tin nhắn của bạn đã được gửi. Cảm ơn!" ✓
+
+====================================================================
+PHẦN XIV: FOOTER SECTION
+====================================================================
+
+Footer Address:
+  Label: "Address" → "Địa Chỉ" ✓
+  Text: "A108 Adam Street" → "123 Ngô Quyền" ✓
+  Text: "New York, NY 535022" → "Phường 9, Quận 10, TPHCM" ✓
+
+Footer Contact:
+  Label: "Contact" → "Liên Hệ" ✓
+  Phone: "+1 5589 55488 55" → "+84 123 456 789" ✓
+  Email: "info@example.com" → "contact@lanquy.vn" ✓
+
+Footer Hours:
+  Label: "Opening Hours" → "Giờ Mở Cửa" ✓
+  Text: "Mon-Sat: 11AM - 23PM; Sunday: Closed" → 
+        "Thứ Hai - Chủ Nhật: 08:00 - 20:00; Lễ Tết: Mở Cửa" ✓
+
+Footer Social:
+  Label: "Follow Us" → "Theo Dõi Chúng Tôi" ✓
+
+Footer Copyright:
+  Text: "© Copyright Yummy All Rights Reserved" → 
+        "© Copyright Lan Quý Bảo Lưu Mọi Quyền" ✓
+  Text: "Designed by BootstrapMade Distributed by ThemeWagon" → 
+        "Thiết Kế Bởi BootstrapMade Phát Hành Bởi ThemeWagon" ✓
+
+====================================================================
+TỔNG KẾT
+====================================================================
+
+✅ Tất cả 500+ cụm từ tiếng Anh đã được dịch sang tiếng Việt
+✅ Tất cả thông tin liên hệ đã được cập nhật cho Việt Nam
+✅ Tất cả giá tiền đã được chuyển đổi sang đồng Việt Nam (đ)
+✅ Ngôn ngữ HTML đã được đặt thành tiếng Việt (lang="vi")
+✅ Tên thương hiệu đã được thay đổi từ "Yummy" thành "Lan Quý"
+✅ Kinh doanh đã chuyển từ nhà hàng sang cửa hàng bán hoa lan
+
+====================================================================

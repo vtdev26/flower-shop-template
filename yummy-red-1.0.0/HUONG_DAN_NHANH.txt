@@ -1,0 +1,86 @@
+====================================================================
+HƯỚNG DẪN NHANH - LAN QUỲ (ORCHID SHOP)
+====================================================================
+
+✅ CÓ GÌ ĐÃ ĐƯỢC THAY ĐỔI:
+
+1. TÊN THƯƠNG HIỆU
+   - Từ: "Yummy" → Thành: "Lan Quý"
+   
+2. NGÔN NGỮ
+   - Từ: English → Thành: Tiếng Việt 100%
+
+3. KINH DOANH
+   - Từ: Nhà hàng → Thành: Cửa hàng bán hoa lan
+
+4. CÁC LOẠI SẢN PHẨM
+   - Lan Phalaenopsis
+   - Lan Cattleya
+   - Lan Dendrobium
+   - Lan Oncidium
+
+====================================================================
+CÁCH SỬ DỤNG:
+
+1. Mở file: index.html trong trình duyệt web
+2. Duyệt qua từng phần để xem nội dung đã được dịch
+3. Cập nhật hình ảnh trong thư mục assets/img/
+4. Điều chỉnh CSS/màu sắc nếu cần
+
+====================================================================
+THÔNG TIN LIÊN HỆ (DEMO):
+
+Địa chỉ: 123 Ngô Quyền, Phường 9, Q.10, TPHCM
+Điện thoại: +84 123 456 789
+Email: contact@lanquy.vn
+Giờ mở cửa: 08:00 - 20:00 (Thứ Hai - Chủ Nhật)
+
+====================================================================
+CÁC PHẦN CHÍNH:
+
+□ Trang Chủ - Giới thiệu
+□ Về Chúng Tôi - Thông tin công ty
+□ Danh Mục - 4 loại hoa lan chính
+□ Khuyến Mãi - Các dịch vụ bổ sung
+□ Chuyên Gia - Đội ngũ chuyên gia
+□ Thư Viện - Hình ảnh
+□ Liên Hệ - Mẫu liên hệ
+□ Đặt Hàng - Mẫu đặt sản phẩm
+
+====================================================================
+GỢI Ý TIẾP THEO:
+
+1. ✍️  Thay đổi hình ảnh:
+   - assets/img/hero-img.png (hero background)
+   - assets/img/about*.jpg (about images)
+   - assets/img/menu/*.png (product images)
+   - assets/img/gallery/*.jpg (gallery images)
+   - assets/img/chefs/*.jpg (expert images)
+   - assets/img/testimonials/*.jpg (customer reviews)
+   - assets/img/events-*.jpg (service images)
+
+2. 🎨 Điều chỉnh màu sắc:
+   - Chỉnh sửa assets/css/main.css
+   - Chọn màu phù hợp với hoa lan (xanh, tím, hồng, v.v.)
+
+3. 💾 Cập nhật PHP forms:
+   - forms/book-a-table.php → forms/order.php (Đặt hàng)
+   - forms/contact.php (Liên hệ - giữ nguyên)
+
+4. 📱 Kiểm tra responsive design:
+   - Mở trên điện thoại, máy tính bảng
+   - Đảm bảo tất cả phần responsive
+
+5. 🔍 SEO Optimization:
+   - Thêm structured data
+   - Cập nhật keywords
+   - Thêm Open Graph meta tags
+
+====================================================================
+LIÊN HỆ HỖ TRỢ:
+
+Nếu cần hỗ trợ thêm, vui lòng liên hệ:
+Email: contact@lanquy.vn
+Điện thoại: +84 123 456 789
+
+====================================================================
