@@ -1,0 +1,200 @@
+{
+    "categories": [
+        {
+            "id": "HoaLanHoDiep",
+            "name": "Hoa Lan Hồ Điệp",
+            "tab": "menu-starters",
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Hoa Lan Hồ Điệp Đỏ",
+                    "description": "Đỏ tươi, hoa lớn, nở lâu dài",
+                    "price": "100.000đ",
+                    "image": "menu-item-1.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Hoa Lan Hồ Điệp Trắng Tinh",
+                    "description": "Trắng tinh, hoa xinh, dễ trồng AAA",
+                    "price": "399.000đ",
+                    "image": "menu-item-2.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Hoa Lan Hồ Điệp Vàng Lòng Đỏ",
+                    "description": "Vàng, lòng đỏ, quý hiếm",
+                    "price": "450.000đ",
+                    "image": "menu-item-3.png"
+                },
+                {
+                    "id": 4,
+                    "name": "Hoa Lan Hồ Điệp Hồng Nhạt",
+                    "description": "Hồng nhạt, nở rộ, thơm nhẹ",
+                    "price": "399.000đ",
+                    "image": "menu-item-4.png"
+                },
+                {
+                    "id": 5,
+                    "name": "Hoa Lan Hồ Điệp Đốm Đỏ",
+                    "description": "Trắng đốm đỏ, hoa nét, ấn tượng",
+                    "price": "650.000đ",
+                    "image": "menu-item-5.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Hoa Lan Hồ Điệp Tím Đậm",
+                    "description": "Tím đậm, quý hiếm, nở đẹp",
+                    "price": "380.000đ",
+                    "image": "menu-item-6.png"
+                }
+            ]
+        },
+        {
+            "id": "LanHoangChiThao",
+            "name": "Lan Hoàng Chi Thảo",
+            "tab": "menu-breakfast",
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Lan Hoàng Chi Thảo Hồng Đẹp",
+                    "description": "Hồng tươi, hoa to, mùi thơm",
+                    "price": "699.000đ",
+                    "image": "menu-item-1.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Lan Hoàng Chi Thảo Tím Nhạt",
+                    "description": "Tím nhạt, quý hiếm, nở dài",
+                    "price": "749.000đ",
+                    "image": "menu-item-2.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Lan Hoàng Chi Thảo Trắng Tinh",
+                    "description": "Trắng, hoa lớn, sang trọng",
+                    "price": "799.000đ",
+                    "image": "menu-item-3.png"
+                },
+                {
+                    "id": 4,
+                    "name": "Lan Hoàng Chi Thảo Đỏ Tươi",
+                    "description": "Đỏ, hoa đẹp, dễ chăm sóc",
+                    "price": "729.000đ",
+                    "image": "menu-item-4.png"
+                },
+                {
+                    "id": 5,
+                    "name": "Lan Hoàng Chi Thảo Vàng Vàng",
+                    "description": "Vàng sáng, ít gặp, đặc biệt",
+                    "price": "850.000đ",
+                    "image": "menu-item-5.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Lan Hoàng Chi Thảo Tấn Cảnh",
+                    "description": "Lớn, đẹp, phù hợp trang trí",
+                    "price": "999.000đ",
+                    "image": "menu-item-6.png"
+                }
+            ]
+        },
+        {
+            "id": "ChiCatLan",
+            "name": "Chi Cát Lan",
+            "tab": "menu-lunch",
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Chi Cát Lan Hồng Đào",
+                    "description": "Hồng nhạt, hoa nhỏ xinh, nở nhiều",
+                    "price": "299.000đ",
+                    "image": "menu-item-1.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Chi Cát Lan Trắng Tinh",
+                    "description": "Trắng, sạch sẽ, thanh lịch",
+                    "price": "319.000đ",
+                    "image": "menu-item-2.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Chi Cát Lan Tím",
+                    "description": "Tím đẹp, hoa dài, lâu tàn",
+                    "price": "349.000đ",
+                    "image": "menu-item-3.png"
+                },
+                {
+                    "id": 4,
+                    "name": "Chi Cát Lan Vàng Ẻo",
+                    "description": "Vàng sáng, nền trang trí",
+                    "price": "329.000đ",
+                    "image": "menu-item-4.png"
+                },
+                {
+                    "id": 5,
+                    "name": "Chi Cát Lan Cam Đẹp",
+                    "description": "Cam nổi bật, hoa to, quý hiếm",
+                    "price": "399.000đ",
+                    "image": "menu-item-5.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Chi Cát Lan Lỏng Hoa",
+                    "description": "Hoa dài lơ lửng, kiểu dáng độc",
+                    "price": "459.000đ",
+                    "image": "menu-item-6.png"
+                }
+            ]
+        },
+        {
+            "id": "ChiLanKiem",
+            "name": "Chi Lan Kiếm",
+            "tab": "menu-dinner",
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Chi Lan Kiếm Vàng Sáng",
+                    "description": "Vàng tươi, hoa nhỏ xinh, như bướm",
+                    "price": "349.000đ",
+                    "image": "menu-item-1.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Chi Lan Kiếm Cam Đỏ",
+                    "description": "Cam đỏ, nổi bật, lấp lánh",
+                    "price": "379.000đ",
+                    "image": "menu-item-2.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Chi Lan Kiếm Đỏ Sẫm",
+                    "description": "Đỏ sâu, quý hiếm, cô đặc",
+                    "price": "399.000đ",
+                    "image": "menu-item-3.png"
+                },
+                {
+                    "id": 4,
+                    "name": "Chi Lan Kiếm Nâu Vàng",
+                    "description": "Nâu vàng, độc đáo, hợp lộc",
+                    "price": "359.000đ",
+                    "image": "menu-item-4.png"
+                },
+                {
+                    "id": 5,
+                    "name": "Chi Lan Kiếm Hồng Tím",
+                    "description": "Hồng tím, ấn tượng, nở nhiều",
+                    "price": "389.000đ",
+                    "image": "menu-item-5.png"
+                },
+                {
+                    "id": 6,
+                    "name": "Chi Lan Kiếm Trắng Sữa",
+                    "description": "Trắng mềm, thanh lịch, quý phái",
+                    "price": "369.000đ",
+                    "image": "menu-item-6.png"
+                }
+            ]
+        }
+    ]
+}

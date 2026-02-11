@@ -1,45 +1,48 @@
 <?php
-  /**
-  * Requires the "PHP Email Form" library
-  * The "PHP Email Form" library is available only in the pro version of the template
-  * The library should be uploaded to: vendor/php-email-form/php-email-form.php
-  * For more info and help: https://bootstrapmade.com/php-email-form/
-  */
+/**
+ * Order Form Handler - Rose's Garden
+ * Processes flower orders and sends confirmation emails
+ * 
+ * Requires the "PHP Email Form" library
+ * The "PHP Email Form" library is available only in the pro version of the template
+ * The library should be uploaded to: vendor/php-email-form/php-email-form.php
+ * For more info and help: https://bootstrapmade.com/php-email-form/
+ */
 
-  // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'contact@example.com';
+// Replace contact@example.com with your real receiving email address
+$receiving_email_address = 'giacatdu1101@gmail.com';
 
-  if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
-    include( $php_email_form );
-  } else {
-    die( 'Unable to load the "PHP Email Form" Library!');
-  }
+if (file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php')) {
+  include($php_email_form);
+} else {
+  die('Unable to load the "PHP Email Form" Library!');
+}
 
-  $book_a_table = new PHP_Email_Form;
-  $book_a_table->ajax = true;
-  
-  $book_a_table->to = $receiving_email_address;
-  $book_a_table->from_name = $_POST['name'];
-  $book_a_table->from_email = $_POST['email'];
-  $book_a_table->subject = "New table booking request from the website";
+$order_form = new PHP_Email_Form;
+$order_form->ajax = true;
 
-  // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
-  /*
-  $book_a_table->smtp = array(
-    'host' => 'example.com',
-    'username' => 'example',
-    'password' => 'pass',
-    'port' => '587'
-  );
-  */
+$order_form->to = $receiving_email_address;
+$order_form->from_name = $_POST['name'];
+$order_form->from_email = $_POST['email'];
+$order_form->subject = "Đơn hàng mới từ Rose's Garden - Order Confirmation";
 
-  $book_a_table->add_message( $_POST['name'], 'Name');
-  $book_a_table->add_message( $_POST['email'], 'Email');
-  $book_a_table->add_message( $_POST['phone'], 'Phone', 4);
-  $book_a_table->add_message( $_POST['date'], 'Date', 4);
-  $book_a_table->add_message( $_POST['time'], 'Time', 4);
-  $book_a_table->add_message( $_POST['people'], '# of people', 1);
-  $book_a_table->add_message( $_POST['message'], 'Message');
+// Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
+/*
+$order_form->smtp = array(
+  'host' => 'example.com',
+  'username' => 'example',
+  'password' => 'pass',
+  'port' => '587'
+);
+*/
 
-  echo $book_a_table->send();
+$order_form->add_message($_POST['name'], 'Tên khách hàng / Name');
+$order_form->add_message($_POST['email'], 'Email');
+$order_form->add_message($_POST['phone'], 'Điện thoại / Phone', 4);
+$order_form->add_message($_POST['date'], 'Ngày giao hàng / Delivery Date', 4);
+$order_form->add_message($_POST['time'], 'Giờ giao hàng / Delivery Time', 4);
+$order_form->add_message($_POST['people'], 'Số lượng sản phẩm / Quantity', 1);
+$order_form->add_message($_POST['message'], 'Ghi chú / Notes');
+
+echo $order_form->send();
 ?>

@@ -1,0 +1,108 @@
+# 📦 CHỈNH SỬA DANH MỤC SẢN PHẨM - TÓNG TẮT
+
+## ✅ Những Gì Đã Hoàn Thành
+
+### 1. **Tạo Hệ Thống Dữ Liệu JSON Linh Hoạt**
+   - File: `assets/data/products.json`
+   - Chứa đầy đủ dữ liệu 4 danh mục (Phalaenopsis, Cattleya, Dendrobium, Oncidium)
+   - Mỗi danh mục có 6 sản phẩm
+
+### 2. **Tạo Script JavaScript Tự Động**
+   - File: `assets/js/products.js`
+   - Tự động load dữ liệu từ JSON
+   - Render menu tabs và sản phẩm động (không hardcode HTML)
+   - Hỗ trợ thêm chức năng load từ CSV/Excel sau này
+
+### 3. **Sửa HTML**
+   - Thay thế phần Menu (lines 190-548)
+   - Giảm từ ~360 dòng HTML hardcode → chỉ 16 dòng khung
+   - Tích hợp script `products.js`
+
+### 4. **Tạo File Hướng Dẫn Chi Tiết**
+   - File: `HUONG_DAN_DANH_MUC.md`
+   - Hướng dẫn sửa JSON
+   - Ví dụ thêm sản phẩm/danh mục
+   - Hướng dẫn import Excel/CSV
+
+### 5. **Tạo File CSV Ví Dụ**
+   - File: `assets/data/products-example.csv`
+   - Dữ liệu mẫu để bạn tham khảo định dạng CSV
+
+---
+
+## 🎯 Cách Sử Dụng
+
+### **Sửa giá sản phẩm:**
+1. Mở: `assets/data/products.json`
+2. Tìm sản phẩm cần sửa
+3. Thay đổi field `"price": "399.000đ"`
+4. Lưu → Reload trang (F5)
+
+### **Thêm sản phẩm mới:**
+```json
+{
+  "id": 7,
+  "name": "Tên sản phẩm mới",
+  "description": "Mô tả",
+  "price": "xyz.000đ",
+  "image": "menu-item-7.png"
+}
+```
+
+### **Thêm danh mục mới:**
+Sao chép block danh mục, đổi `id` và `tab`, thêm sản phẩm mới
+
+---
+
+## 📊 Hiệu Suất Cải Thiện
+
+| Tiêu Chí | Trước | Sau |
+|---------|-------|-----|
+| Dòng HTML menu | ~360 | 16 |
+| Dễ sửa | Khó (hardcode) | Dễ (JSON) |
+| Tái sử dụng | Không | Có |
+| Load động | Không | Có ✓ |
+
+---
+
+## 🔧 Cấu Trúc Thư Mục
+
+```
+yummy-red-1.0.0/
+├── index.html                          ← HTML sửa
+├── HUONG_DAN_DANH_MUC.md              ← Hướng dẫn mới
+├── assets/
+│   ├── data/
+│   │   ├── products.json              ← Dữ liệu chính (sửa ở đây!)
+│   │   └── products-example.csv       ← Ví dụ format CSV
+│   ├── js/
+│   │   ├── main.js                    ← Script gốc
+│   │   └── products.js                ← Script load danh mục (MỚI)
+│   └── img/
+│       └── menu/                      ← Thư mục ảnh sản phẩm
+```
+
+---
+
+## ⚡ Tính Năng Khả Dụng
+
+✅ Load từ JSON  
+✅ Render tự động  
+✅ Thêm/xoá sản phẩm dễ dàng  
+✅ Thay đổi giá tức thời  
+⏳ Import Excel (cần thêm thư viện XLSX)  
+⏳ Import CSV (script đã có sẵn)  
+
+---
+
+## 🚀 Bước Tiếp Theo
+
+1. **Kiểm tra:** Mở website, xem danh mục có hiển thị không
+2. **Sửa JSON:** Thay đổi giá, tên, mô tả theo ý muốn
+3. **Thêm ảnh:** Copy ảnh vào `assets/img/menu/`, cập nhật `products.json`
+4. **Nâng cao:** Thêm chức năng import Excel (yêu cầu riêng)
+
+---
+
+**Ngày hoàn thành:** 2025-02-10  
+**Status:** ✅ Hoàn tất
